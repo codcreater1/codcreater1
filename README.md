@@ -1,53 +1,101 @@
-<h1 align="center">👋 Hi, I'm Murat Can Nergiz</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Passionate about building beautiful and functional projects</h3>
+# 👋 Hey, I’m Murat Can Nergiz
+**Computer Engineering Student | Full-Stack & Blockchain Developer**  
+
+> "Turning ideas into code, one commit at a time."  
+> *Building, learning, and innovating every day.*
+a
+![Header GIF](https://raw.githubusercontent.com/codcreater1/assets/main/header.gif)
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:muratcannergiz0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muratcannergiz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/codcreater1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 💻 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,cpp,swift,nodejs,express,mysql,sqlite,mongodb,git,github,vscode" />
-</p>
+## 🚀 Featured Projects
+| Project | Tech | Link |
+|---------|------|------|
+| Portfolio Website | React, Tailwind | [Repo](https://github.com/codcreater1/simple-me-web) |
+| Taxi Simulator | C++ | [Repo](https://github.com/codcreater1/-C-Advanced-Taxi-Simulation) |
+| Smart Contract | Solidity | [Repo](https://github.com/codcreater1/learning-solidity) |
+| Terminal Todo App | C++ | [Repo](https://github.com/codcreater1/Termainal-Todo-App) |
+| Blockchain Voting App | Solidity, React | [Repo](https://github.com/codcreater1/blockchain-voting) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codcreater1&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codcreater1&theme=tokyonight" height="165"/>
-</p>
+## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=codcreater1&show_icons=true&theme=radical&count_private=true" alt="Murat's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codcreater1&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
-### 🚀 Top Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Terminal Todo App](https://github.com/codcreater1/Terminal-Todo-App) | Command-line todo manager | C++ |
-| [C Advanced Tax Simulator](https://github.com/codcreater1/C-Advanced-Tax-Simulator) | Complex tax simulation tool | C |
-| [Portfolio Website](https://github.com/codcreater1/Murat-Can-Nergiz) | Personal portfolio website | HTML, CSS, JS |
+## 🌱 Currently Learning
+<div>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codcreater1/Murat-Can-Nergiz/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 🛠️ Milestones / Timeline
+- **2023:** Started learning C++ & Python  
+- **2024:** Built Portfolio Website & Terminal Todo App  
+- **2024:** Participated in Hackathons & Blockchain projects  
+- **2025:** Solidity & Smart Contracts, Blockchain Voting App  
+- **2025:** Exploring Next.js, GraphQL & Advanced Web3 Development  
 
 ---
 
-### 💬 Fun Fact
-> I don’t just write code — I design experiences.  
-> Code clean, drink coffee, repeat ☕💻  
+## 📫 Connect with me
+<div>
+  <a href="https://linkedin.com/in/muratcannergiz">
+    <img src="https://img.shields.io/badge/LinkedIn-MuratCan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/codcreater1">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:muratcannergiz0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muratcannergiz0@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
-<p align="center">⭐ Don’t forget to star your favorite repos!</p>
+## ⚡ Fun Facts
+- Coffee addicted ☕  
+- Always learning new technologies 🚀  
+- Love solving problems & optimizing code 🧠  
+- Active contributor to Open Source 🌍  
+
+---
+
+## ✨ Bonus: Hover / Collapsible GIF Effect
+<details>
+<summary>Hover to see magic!</summary>
+<img src="https://raw.githubusercontent.com/codcreater1/assets/main/hover.gif" alt="Hover GIF" width="300"/>
+</details>
+
+
+
+
+------
+
+### 🐍 GitHub Snake
+![GitHub Snake](https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg)
+
+
+
+
