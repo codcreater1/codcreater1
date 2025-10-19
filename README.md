@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Murat Can Nergiz
-**Computer Engineering Student | Full-Stack & Blockchain Developer**  
+**Computer Engineering Student | Backend & Blockchain Developer**  
 
 > "Turning ideas into code, one commit at a time."  
 > *Building, learning, and innovating every day.*
@@ -13,7 +13,9 @@ a
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+
+  
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
