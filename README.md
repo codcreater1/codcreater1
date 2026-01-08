@@ -26,10 +26,11 @@ a
 | Project | Tech | Link |
 |---------|------|------|
 | Portfolio Website | React, Tailwind | [Repo](https://github.com/codcreater1/simple-me-web) |
+| Habit-Tracker-CPP | C++ | https://github.com/codcreater1/Habit-Tracker-CPP 
 | Taxi Simulator | C++ | [Repo](https://github.com/codcreater1/-C-Advanced-Taxi-Simulation) |
 | Smart Contract | Solidity | [Repo](https://github.com/codcreater1/learning-solidity) |
 | Terminal Todo App | C++ | [Repo](https://github.com/codcreater1/Termainal-Todo-App) |
-| Blockchain Voting App | Solidity, React | [Repo](https://github.com/codcreater1/blockchain-voting) |
+
 
 ---
 
