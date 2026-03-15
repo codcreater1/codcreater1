@@ -64,7 +64,7 @@ a
 
 ## 📫 Connect with me
 <div>
-  <a href="https://linkedin.com/in/muratcannergiz">
+  <a href="https://www.linkedin.com/in/murat-can-nergiz-612471317/">
     <img src="https://img.shields.io/badge/LinkedIn-MuratCan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/codcreater1">
