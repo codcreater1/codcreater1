@@ -6,18 +6,26 @@ raw = subprocess.run(["gh", "api", f"users/{USER}/events/public?per_page=100"],
 events = json.loads(raw)
 
 rows, seen = [], set()
+SKIP = (f"{USER}/{USER}", f"{USER}/Murat-Can-Nergiz")
 for e in events:
-    if e["type"] != "PushEvent":
-        continue
     repo = e["repo"]["name"]
-    if repo in (f"{USER}/{USER}", f"{USER}/Murat-Can-Nergiz"):
+    if repo in SKIP:
         continue
-    for c in reversed(e["payload"].get("commits", [])):
-        if c["sha"] in seen:
+    link = f"[`{repo.split('/')[1]}`](https://github.com/{repo})"
+    date = e["created_at"][:10]
+    if e["type"] == "PushEvent":
+        for c in reversed(e["payload"].get("commits", [])):
+            if c["sha"] in seen:
+                continue
+            seen.add(c["sha"])
+            rows.append(f"| {link} | {c['message'].splitlines()[0][:70].replace('|', '/')} | {date} |")
+    elif e["type"] == "PullRequestEvent":
+        pr = e["payload"]["pull_request"]
+        if pr["number"] in seen or e["payload"]["action"] not in ("opened", "closed"):
             continue
-        seen.add(c["sha"])
-        msg = c["message"].splitlines()[0][:70].replace("|", "/")
-        rows.append(f"| [`{repo.split('/')[1]}`](https://github.com/{repo}) | {msg} | {e['created_at'][:10]} |")
+        seen.add(pr["number"])
+        state = "merged" if pr.get("merged") else e["payload"]["action"]
+        rows.append(f"| {link} | PR {state}: {pr['title'][:60].replace('|', '/')} | {date} |")
     if len(rows) >= 5:
         break
 
