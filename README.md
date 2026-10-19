@@ -107,6 +107,7 @@
 <h3>⚡ Recent Activity</h3>
 
 <!--ACTIVITY:START-->
+_No recent public activity._
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
