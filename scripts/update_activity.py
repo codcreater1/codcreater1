@@ -21,6 +21,11 @@ for e in events:
             rows.append(f"| {link} | {c['message'].splitlines()[0][:70].replace('|', '/')} | {date} |")
     elif e["type"] == "PullRequestEvent":
         pr = e["payload"]["pull_request"]
+        if "title" not in pr:
+            r = subprocess.run(["gh", "api", pr["url"]], capture_output=True, text=True)
+            if r.returncode != 0:
+                continue
+            pr = json.loads(r.stdout)
         if pr["number"] in seen or e["payload"]["action"] not in ("opened", "closed"):
             continue
         seen.add(pr["number"])
