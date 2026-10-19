@@ -5,7 +5,7 @@
 <circle cx="26" cy="20" r="6" fill="#ff5f56"/><circle cx="48" cy="20" r="6" fill="#ffbd2e"/><circle cx="70" cy="20" r="6" fill="#27c93f"/>
 <text x="410.0" y="25" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b949e">murat@github: ~</text>
 <g transform="translate(0 20)"><text x="40" y="92" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#4ade80" clip-path="url(#c0)" xml:space="preserve">$ whoami</text>
-<text x="40" y="122" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#f8fafc" clip-path="url(#o0)" xml:space="preserve">&gt; murat-can-nergiz</text>
+<text x="40" y="122" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#f8fafc" clip-path="url(#o0)" xml:space="preserve">&gt; murat-can-</text>
 <text x="40" y="154" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#4ade80" clip-path="url(#c1)" xml:space="preserve">$ cat focus.txt</text>
 <text x="40" y="184" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#7dd3fc" clip-path="url(#o1)" xml:space="preserve">&gt; Backend · AI Agents · Smart Contracts</text>
 <text x="40" y="216" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" fill="#4ade80" clip-path="url(#c2)" xml:space="preserve">$ ./status --now</text>
