@@ -107,11 +107,11 @@
 <!--ACTIVITY:START-->
 | Repo | Commit | Date |
 |---|---|---|
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Reproduction test the model writes, run in the sandbox: vali | 2026-10-23 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Release 1.6.0: version bump and release notes | 2026-10-22 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Show which code was analysed: source_revision in the analysi | 2026-10-22 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Analyse the deployed code: optional commit_sha pins source r | 2026-10-22 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Release 1.5.0: version bump and consolidated release notes | 2026-10-22 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: CI: pin the runner image to ubuntu-24.04 and test that no jo | 2026-10-23 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Fix pilot-check tests on a pre-migrated database (PostgreSQL | 2026-10-23 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Pilot readiness check: say what blocks a first pilot, never  | 2026-10-23 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Chore/repo hardening | 2026-10-23 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: README: bring the overview, feature table, CI description, l | 2026-10-23 |
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
