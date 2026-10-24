@@ -107,11 +107,11 @@
 <!--ACTIVITY:START-->
 | Repo | Commit | Date |
 |---|---|---|
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: README: try-it block, "why it is built this way", complete c | 2026-10-24 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Security: no-store on API responses, secret-scan test, dev d | 2026-10-24 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: GitHub presence: social preview image, Security and Release  | 2026-10-24 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Second live holdout run with prompt v7.1 / gate v8, run-to-r | 2026-10-24 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: CI: pin the runner image to ubuntu-24.04 and test that no jo | 2026-10-23 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Fix pilot-check tests on a pre-migrated database (PostgreSQL | 2026-10-23 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Pilot readiness check: say what blocks a first pilot, never  | 2026-10-23 |
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
