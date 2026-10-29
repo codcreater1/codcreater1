@@ -107,11 +107,11 @@
 <!--ACTIVITY:START-->
 | Repo | Commit | Date |
 |---|---|---|
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: history_real_repo: run third-party tests in an isolated Dock | 2026-10-29 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Docs/record gate v10 experiment | 2026-10-29 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: README: show the real bug-fix-history result and the current | 2026-10-29 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Record the gate-v10 experiment: retrying on a surviving copy | 2026-10-29 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Record the v7.2 / gate v9 live result: no measured improveme | 2026-10-28 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Prompt v7.2 and quality gate v9: why accepted patches still  | 2026-10-27 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Release 1.9.0: version bump and release notes | 2026-10-26 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Category hint: type-check every field it reads (unhashable c | 2026-10-26 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Category hint for reviewers: the diagnosis blames our code b | 2026-10-25 |
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
