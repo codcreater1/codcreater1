@@ -107,11 +107,11 @@
 <!--ACTIVITY:START-->
 | Repo | Commit | Date |
 |---|---|---|
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Runbook: how to read the sandbox verdicts | 2026-11-05 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Console: button to re-open a pr_failed incident for approval | 2026-11-04 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Fix a flaky test: ignore measured latency in the eval determ | 2026-11-04 |
 | [`seka-recruitment-demo`](https://github.com/codcreater1/seka-recruitment-demo) | PR merged: No error toast after switching accounts on an address the ne | 2026-11-04 |
 | [`seka-recruitment-demo`](https://github.com/codcreater1/seka-recruitment-demo) | PR merged: Fix the Laravel CI job: keep the empty tests/Unit folder | 2026-11-04 |
-| [`seka-recruitment-demo`](https://github.com/codcreater1/seka-recruitment-demo) | PR merged: Role-aware notice for people who see only shared application | 2026-11-04 |
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
