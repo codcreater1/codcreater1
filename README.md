@@ -107,11 +107,11 @@
 <!--ACTIVITY:START-->
 | Repo | Commit | Date |
 |---|---|---|
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR opened: pilot_check: warn when SANDBOX_COMMAND has -x | 2026-11-06 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: CodeQL: parser instead of regex in the CSP guard test; docum | 2026-11-08 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Fix a flaky test: wait for lease renewals instead of sleepin | 2026-11-08 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: scripts/pilot_digest: a facts-only summary of the review que | 2026-11-08 |
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: pilot_check: warn when SANDBOX_COMMAND has -x | 2026-11-06 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Runbook: how to read the sandbox verdicts | 2026-11-05 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Console: button to re-open a pr_failed incident for approval | 2026-11-04 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Fix a flaky test: ignore measured latency in the eval determ | 2026-11-04 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Sandbox: judge a patch against the tests that were already f | 2026-11-03 |
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
