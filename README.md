@@ -107,11 +107,11 @@
 <!--ACTIVITY:START-->
 | Repo | Commit | Date |
 |---|---|---|
+| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: README: a 90-line front page; the rest moves to five docs pa | 2026-11-12 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: README: split the 1,243-line page (evaluation and integratio | 2026-11-12 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Harden the Compose app containers: read-only root, no capabi | 2026-11-12 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Fix: text PostgreSQL/UTF-8 cannot store (NUL, lone surrogate | 2026-11-12 |
 | [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: Test scripts.seed_demo_data and drop its duplicate cast help | 2026-11-12 |
-| [`OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent`](https://github.com/codcreater1/OpsPulse-AI-Autonomous-Incident-Response-RCA-Agent) | PR merged: CI: raise the coverage floor from 84% to 87% | 2026-11-12 |
 <!--ACTIVITY:END-->
 
 <img src="https://codcreater1.github.io/Murat-Can-Nergiz/github-snake-dark.svg" alt="Contribution snake"/>
